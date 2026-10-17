@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/pet">
+        <file alias="eye.gif">resources/pet/eye_t.gif</file>
+        <file alias="normal.gif">resources/pet/normal_t.gif</file>
+        <file alias="think.gif">resources/pet/think_t.gif</file>
+        <file alias="smile.gif">resources/pet/smile_t.gif</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file alias="ding.wav">resources/sound/ding.wav</file>
+    </qresource>
+</RCC>
